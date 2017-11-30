@@ -32,6 +32,8 @@ We use [backpack](https://github.com/palmerhq/backpack) to watch and build the a
 - ~~hotcss,pc、移动均使用REM计算单位，响应设计稿~~
 ## 目录结构
 ```
+
+```
 nuxt.js-blog/
    |
    ├──assets/                    * 需经webpack处理的静态资源
