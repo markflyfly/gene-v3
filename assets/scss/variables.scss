@@ -1,0 +1,51 @@
+// Container
+$container-width: 75em;
+$header-height: 4.5em;
+$mobile-container-width: 100%;
+$body-bg: #f8f8f8;
+$module-bg: rgba(255,255,255,0.6);
+$module-hover-bg: rgba(197,197,197,0.4);
+
+// Other
+$radius: 6px;
+
+// Colors
+$primary: #5fc3ec;
+$accent: #58f099;
+$green: #4ed8ca;
+$aide: #f4f7fd;
+$red: #f44336;
+$yellow: #ffeb3b;
+$grey: #efefef;
+$white: #fff;
+$black: #000;
+$black-light: #999;
+$auxiliary-line: #ebe9e9;
+
+// Text
+$text: rgba(0, 0, 0, .87);
+$dodge: rgba(0, 0, 0, .54);
+$disabled: rgba(0, 0, 0, .26);
+$dividers: rgba(0, 0, 0, .12);
+$box-shadow: rgba(0, 0, 0, .06);
+
+// Links
+$link-color: $text;
+$link-hover-color: darken($link-color, 20%);
+
+// Font
+$sans-serif: -apple-system, CenturyGothic, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Segoe UI", "Microsoft YaHei", "微软雅黑", sans-serif;
+$serif: Georgia, Times, 'Times New Roman', serif;
+$monospace: Menlo, Monaco, Consolas, 'Courier New', monospace;
+$font-family-base: $sans-serif;
+
+// Typography
+$font-size-base: 28px;
+$font-size-small: 24px;
+$font-size-h1: 32px;
+$font-size-p1: $font-size-small;
+$font-size-p2: 22px;
+$font-size-marking:20px;
+
+// Border
+$border: 1px solid $dividers;
